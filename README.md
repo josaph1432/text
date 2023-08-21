@@ -1,4 +1,1 @@
-# text
- // this is tha cod //
-hello josaph
-hello to all 
+my Project of wiled life Photography  Static web page 
